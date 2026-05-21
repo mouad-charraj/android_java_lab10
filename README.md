@@ -1,8 +1,9 @@
-# Lab 10 - Application Navigation Drawer (Mouad)
+# Lab 10 - Application Navigation Drawer 
 
 Ce projet consiste en une application Android utilisant un menu latéral (Drawer) pour naviguer entre plusieurs fragments de manière fluide.
 
 ## Vidéo de démonstration
+<img width="402" height="882" alt="lab10" src="https://github.com/user-attachments/assets/35a768b4-b57f-47a9-872d-b6400f144e0d" />
 
 
 ## Structure du Projet
